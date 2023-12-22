@@ -649,39 +649,23 @@ section .container {
   margin-bottom: 10px;
 }
 
-.resume .resume-item h5 {
-  font-size: 16px;
-  background: rgba(255, 255, 255, 0.15);
-  padding: 5px 15px;
+.download-link {
   display: inline-block;
-  font-weight: 600;
-  margin-bottom: 10px;
+  padding: 12px 24px;
+  text-decoration: none;
+  background-color: #4CAF50; /* Green color */
+  color: #fff; /* White text */
+  border: 1px solid #4CAF50; /* Green border */
+  border-radius: 5px; /* Rounded corners */
+  transition: background-color 0.3s ease;
 }
 
-.resume .resume-item ul {
-  padding-left: 20px;
+/* Hover effect */
+.download-link:hover {
+  background-color: #45a049; /* Darker green color on hover */
 }
 
-.resume .resume-item ul li {
-  padding-bottom: 10px;
-}
-
-.resume .resume-item:last-child {
-  padding-bottom: 0;
-}
-
-.resume .resume-item::before {
-  content: "";
-  position: absolute;
-  width: 16px;
-  height: 16px;
-  border-radius: 50px;
-  left: -9px;
-  top: 0;
-  background: #18d26e;
-  border: 2px solid #18d26e;
-}
-
+ 
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
