@@ -25,11 +25,11 @@ body::before {
   left: 0;
   right: 0;
   top: 0;
-  height: 100vh;
+  height: 110vh;
   z-index: -1;
 }
 
-@media (min-width: 1024px) {
+@media (min-width: 3000px) {
   body::before {
     background-attachment: fixed;
   }
