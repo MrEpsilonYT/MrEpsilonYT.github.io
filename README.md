@@ -36,9 +36,13 @@ Contributing
 If you'd like to contribute to the development of the website, follow these steps:
 
 1.Fork the repository.
+
 2.Create a new branch for your feature or bug fix: git checkout -b feature/your-feature.
+
 3.Make your changes and commit them: git commit -m 'Add some feature'.
+
 4.Push to the branch: git push origin feature/your-feature.
+
 5.Open a pull request.
 
 Please make sure to follow the code of conduct.
