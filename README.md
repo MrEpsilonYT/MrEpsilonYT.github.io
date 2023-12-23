@@ -12,7 +12,7 @@ Welcome to the repository for MrEpsilonYT's official website! This website serve
 
 ## Introduction
 
-This repository contains the source code and assets for my personal website, which is hosted at [https://mrepsilonyt.github.io](https://mrepsilonyt.github.io). The website is built using [insert technology or framework here, e.g., HTML, CSS, JavaScript].
+This repository contains the source code and assets for my personal website, which is hosted at [https://mrepsilonyt.github.io](https://mrepsilonyt.github.io). The website is built using HTML, CSS, JavaScript And Php.
 
 ## Features
 
