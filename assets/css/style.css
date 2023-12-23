@@ -632,7 +632,7 @@ section .container {
   font-weight: 600;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color: #18d26e;
+  color: #0cf380;
   margin-bottom: 10px;
 }
 
@@ -640,16 +640,20 @@ section .container {
   display: inline-block;
   padding: 12px 24px;
   text-decoration: none;
-  background-color: #4CAF50; /* Green color */
+  background-color: #06ee31; /* Green color */
   color: #fff; /* White text */
-  border: 1px solid #4CAF50; /* Green border */
+  border: 1px solid #05f2ab; /* Green border */
   border-radius: 5px; /* Rounded corners */
   transition: background-color 0.3s ease;
 }
 
+
 /* Hover effect */
 .download-link:hover {
   background-color: #45a049; /* Darker green color on hover */
+}
+#resumebutton:hover {
+  color: #e2eaec;
 }
 
  
